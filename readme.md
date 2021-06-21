@@ -3,6 +3,7 @@
 # Gyuri's Foam powered digital garden
 
 - Here to explore integration with agora
+- edited
 
 
 **👋 Welcome to your new Foam Knowledge Base!**
