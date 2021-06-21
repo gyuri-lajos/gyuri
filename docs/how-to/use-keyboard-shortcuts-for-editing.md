@@ -27,7 +27,7 @@ This works best if you can see the result in the preview panel, run the `Markdow
 
 - [ ] Paste link on selected text
   1. copy the following text: https://google.com
-  2. select me and paste
+  2. [select me](https://google.com) and paste
 
 ---
 
@@ -41,3 +41,4 @@ This works best if you can see the result in the preview panel, run the `Markdow
   2. move your cursor to the next line, then press `cmd+alt+v` and confirm the name of the file
   3. .
   4. the image file has been created in `/attachments` and a reference to it has been added here
+  5. ![](../../attachments/2021-06-21-16-14-50.png)
